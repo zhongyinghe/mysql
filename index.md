@@ -1,1 +1,5 @@
 * 1、[MariaDB的安装和对外连接](mariadb.md)
+* 2、[MySQL](#)
+* 2.1、[编辑数据表字段](edit_table.md)
+* 2.2、[sql模式报错](mysql_err.md)
+* 2.3、[MySQL函数](mysql_func.md)
